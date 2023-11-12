@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="rydty" width="80px"><br/>MNIST-Digit-classification-using-Neural-Network</h1>
+      <h1><br/>MNIST-Digit-classification-using-Neural-Network</h1>
      </div>
 
 
